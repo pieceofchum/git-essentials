@@ -1,3 +1,3 @@
 # git-essentials
 
-SOME NEW STUFF
+To say something else (master branch)
